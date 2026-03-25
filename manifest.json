@@ -1,0 +1,23 @@
+{
+    "name": "Rutina Gym",
+    "short_name": "Rutina Gym",
+    "description": "App de entrenamiento en el gimnasio",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#007aff",
+    "icons": [
+        {
+            "src": "https://i.postimg.cc/xCMkWZQ1/icono.jpg",
+            "sizes": "192x192",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://i.postimg.cc/xCMkWZQ1/icono.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any maskable"
+        }
+    ]
+}
